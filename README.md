@@ -1,8 +1,16 @@
- ## Olá! Eu sou o Kaique Rodrigues
+ ## Olá! Eu sou o Kaique Rodrigues Leme
 
-- 🔭 Atualmente trabalho com mecânica industrial
-- 🌱 Estou estudando Python e JavaScript desenvolvendo projetos e PHP na faculdade
-- 😄 Pronouns: Ele/Dele
+Apaixonado por tecnologia, estudo informatica mais voltada para hardware desde 2017.
+
+Em 2024 comecei minha faculdade para me aprofundar mais na área da tecnologia.
+
+Atualmente estou focado em desenvolver projetos em Python e JavaScript em casa e na faculdade estou aprendendo HTML5 CSS3 e PHP.
+
+Tenho Interesse em ser Estágiario na área da tecnologia para ampliar mais meus conhecimentos.
+
+
+
+##
 
 <div>
   <a href="https://github.com/KaiqueRodriguesL">
@@ -36,3 +44,11 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueRodriguesL&
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueRodriguesL/KaiqueRodriguesL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaiqueRodriguesL/KaiqueRodriguesL/output/github-contribution-grid-snake.svg">
 </picture>
+
+Mais Informações
+
+📍 Mogi das Cruzes/SP
+📖 Tecnólogo em Análise e Desenvolvimento de sistemas - Noturno (2° Semestre)
+🎂 Idade: 19 Anos
+🌐 Idiomas: Português Nativo, Inglês Intermediário, Espanhol Básico.
+⚙️ Atualmente estou trabalhando na área da Mecânica industrial no período vespertino.
