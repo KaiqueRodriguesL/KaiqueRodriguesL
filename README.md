@@ -48,7 +48,11 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueRodriguesL&
 Mais Informações
 
 📍 Mogi das Cruzes/SP
+
 📖 Tecnólogo em Análise e Desenvolvimento de sistemas - Noturno (2° Semestre)
+
 🎂 Idade: 19 Anos
+
 🌐 Idiomas: Português Nativo, Inglês Intermediário, Espanhol Básico.
+
 ⚙️ Atualmente estou trabalhando na área da Mecânica industrial no período vespertino.
