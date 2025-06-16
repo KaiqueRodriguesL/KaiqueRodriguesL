@@ -1,6 +1,6 @@
  ## Olá! Eu sou o Kaique Rodrigues Leme
 
-Apaixonado por tecnologia, estudo informatica mais voltada para hardware desde 2017.
+Apaixonado por tecnologia, estudo informatica mais voltada para hardware desde 2020.
 
 Em 2024 comecei minha faculdade para me aprofundar mais na área da tecnologia.
 
@@ -48,9 +48,9 @@ Mais Informações
 
 📍 Mogi das Cruzes/SP
 
-📖 Tecnólogo em Análise e Desenvolvimento de sistemas - Noturno (2° Semestre)
+📖 Tecnólogo em Análise e Desenvolvimento de sistemas - Noturno (4° Semestre)
 
-🎂 Idade: 19 Anos
+🎂 Idade: 20 Anos
 
 🌐 Idiomas: Português Nativo, Inglês Intermediário, Espanhol Básico.
 
